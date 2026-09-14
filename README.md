@@ -1,34 +1,25 @@
-# 🚀 KnowledgeInCode
+```
+⁺˚. knowledge in code .˚⁺
+(˶>⩊<˶) /
 
-¡Bienvenido a **KnowledgeInCode**! de **Carolina Z ><**  
-Aquí encontrarás todos mis **ejercicios, proyectos y prácticas** en distintos lenguajes de programación, organizados por temas y niveles. Este repositorio refleja mi **crecimiento y aprendizaje** a lo largo de mi carrera como Ingeniera de Software :0 .
+un espacio personal para recopilar tareas, ejercicios y proyectos desarrollados durante clase.
 
----
+₊˚. 📂 estructura .˚⁺
 
-## 📂 Estructura del repositorio :3
+  ├── C_zone/
+  ├── Java_zone/
+  └── Python_Zone/
 
-Cada lenguaje tiene su propia carpeta, y dentro se organizan los archivos por temas o tipos de ejercicios.
+⁺˚. entornos ⁺˚.
 
----
+  ✦ Visual Studio Code
+  ✦ PyCharm
+  ✦ IntelliJ IDEA
 
-## 🎯 Propósito >:D
+˚. 💭 notas .˚
 
-- 💡 Consolidar todo mi conocimiento en un solo lugar  
-- 🛠 Practicar distintos lenguajes de programación y estructuras  
-- 📖 Mantener un registro ordenado de proyectos de clases y personales  
+  * código organizado por temas dentro de cada zona.
+  * libre uso para consulta o referencia.
 
----
-
-## ⚡ Cómo usar este repositorio :^
-
-- Explora las carpetas según el lenguaje y tema de los ejercicios  
-- Cada carpeta contiene ejemplos, ejercicios y proyectos según el lenguaje y tema  
-- Este repositorio está en constante crecimiento; volveré a actualizarlo regularmente con nuevos archivos y subcarpetas  
-
----
-
-## ✨ Notita ><
-
-Este repositorio es mi **espacio personal de aprendizaje y práctica en programación**.  
-¡Explora, aprende y comparte ideas! 🙂 Gracias por echarle un vistazo!
-
+.˚✦ ꒰ 𖦹 ɞ 𖦹 ꒱ ✦˚.
+```

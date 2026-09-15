@@ -38,3 +38,34 @@ class DoublyLinkedList:
         new_node.prev = self.tail
         self.tail.next = new_node
         self.tail = new_node
+
+    def print_forward(self):
+        """Traverse and print the list from head to tail. """
+        current = self.head
+        elements = []
+        while current:
+            elements.append(str(current.data))
+            current = current.next
+        print(" <-> ".join(elements) if elements else "Empty list")
+
+    def print_backward(self):
+        """Traverse and print the list from tail to head. """
+        current = self.tail
+        elements = []
+        while current:
+            elements.append(str(current.data))
+            current = current.prev
+            print(" <-> ".join(elements) if elements else "Empty list")
+
+# Ejemplo:
+dll = DoublyLinkedList()
+dll.append("Juan")
+dll.append("Peter")
+dll.append("Pepe")
+dll.append("Jose")
+dll.prepend("Maria")
+
+print("\nForward Traverse: ")
+dll.print_forward()
+print("\nBackward Traverse: ")
+dll.print_backward()
